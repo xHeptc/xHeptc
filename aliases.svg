@@ -3,12 +3,10 @@
      height="37"
      viewBox="0 0 78 37">
 
-  <rect width="78" height="37" fill="#0D1117"/>
-
   <text
     x="1"
-    y="34"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    y="33"
+    font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
     fill="#A8B0BA"
