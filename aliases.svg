@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="75" height="22" viewBox="0 0 75 22">
-  <rect width="75" height="22" fill="#0D1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="26" viewBox="0 0 75 26">
+  <rect width="75" height="26" fill="#0D1117"/>
 
   <text
     x="1"
-    y="21"
+    y="24"
     font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
