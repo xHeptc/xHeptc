@@ -1,6 +1,6 @@
 <h1>
   hey, im Mantas
-  <img src="https://github.com/xHeptc/xHeptc/blob/main/aliases.svg" height="37">
+  <img src="https://github.com/xHeptc/xHeptc/blob/main/aliases.svg" height="37" style="display:inline-block; vertical-align:bottom;">
 </h1>
 
 you might know me from the legacy roblox exploiting forum <a href="https://v3rmillion.net/"><font color="red">v3rmillion.net</font></a> (2019 - 2023).
