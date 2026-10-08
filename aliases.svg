@@ -2,13 +2,18 @@
      width="78"
      height="37"
      viewBox="0 0 78 37">
+
+  <rect width="78" height="37" fill="#0D1117"/>
+
   <text
     x="1"
-    y="34"
+    y="32"
     font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
-    fill="#A8B0BA">
-    aka xHeptc
-  </text>
+    fill="#A8B0BA"
+  >aka xHeptc</text>
+
+  <rect x="0" y="34" width="78" height="3" fill="#0D1117"/>
+
 </svg>
