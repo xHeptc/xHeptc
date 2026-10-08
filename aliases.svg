@@ -6,6 +6,7 @@
   <text
     x="1"
     y="37"
+    transform="translate(0 3)"
     font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
