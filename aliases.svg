@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="78"
-     height="40"
-     viewBox="0 0 78 40">
+     height="37"
+     viewBox="0 0 78 37">
   <text
     x="1"
-    y="37"
+    y="34"
     font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
-    fill="#A8B0BA"
-  >aka xHeptc</text>
+    fill="#A8B0BA">
+    aka xHeptc
+  </text>
 </svg>
