@@ -1,4 +1,4 @@
-# hey, im xHeptc
+# hey, im Mantas <img src="https://github.com/xHeptc/xHeptc/blob/main/aliases.svg"/>
 
 you might know me from the legacy roblox exploiting forum <a href="https://v3rmillion.net/"><font color="red">v3rmillion.net</font></a> (2019 - 2023).
 
@@ -7,15 +7,16 @@ ive been programming and messing around with roblox for quite some time now, pre
 over the years ive worked on various projects, libraries, and tools, mostly around luau, ui, networking, and optimization. some of my work has been used by other developers and communities, which is probably what im most proud of.
 
 <sub>
-languages ive ever touched:
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png?" height="18">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="18">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="18">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="18">
-<img src="https://img.shields.io/badge/JS%20%2F%20TS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18">
-maybe more i dont remember </sub> 
-<sub>
+languages ive touched over the years:<br>
+<img src="https://img.shields.io/static/v1?label=&message=luau&color=00A2FF&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=csharp&color=512BD4&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=c%2B%2B&color=00599C&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=js%20%2F%20ts&color=3178C6&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=go&color=00ADD8&style=flat-square" height="16">
+</sub> +
 <br>
-mostly used / proficient in:
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png?" height="18">
+
+<sub>
+mostly used / proficient in:<br>
+<img src="https://img.shields.io/static/v1?label=&message=luau&color=00A2FF&style=flat-square" height="16">
 </sub>
