@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="75" height="26" viewBox="0 0 75 26">
-  <rect width="75" height="26" fill="#0D1117"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="18" viewBox="0 0 75 18">
   <text
     x="1"
-    y="24"
+    y="15"
     font-family="Arial, sans-serif"
     font-size="12"
     font-weight="600"
