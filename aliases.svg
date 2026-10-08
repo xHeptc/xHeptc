@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="85" height="22" viewBox="0 0 85 22">
-  <rect width="85" height="22" fill="#0D1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="22" viewBox="0 0 75 22">
+  <rect width="75" height="22" fill="#0D1117"/>
 
   <text
     x="1"
-    y="19"
+    y="21"
     font-family="Arial, sans-serif"
-    font-size="15"
+    font-size="12"
     font-weight="600"
-    fill="#9DA7B3"
+    fill="#8B949E"
   >aka xHeptc</text>
 </svg>
