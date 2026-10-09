@@ -13,9 +13,9 @@ over the years ive worked on various projects, libraries, and tools, mostly arou
 languages ive touched over the years:<br>
 <img src="https://img.shields.io/static/v1?label=&message=luau&color=00A2FF&style=flat-square" height="16">
 <img src="https://img.shields.io/static/v1?label=&message=csharp&color=512BD4&style=flat-square" height="16">
-<img src="https://img.shields.io/static/v1?label=&message=c%2B%2B&color=00599C&style=flat-square" height="16">
-<img src="https://img.shields.io/static/v1?label=&message=js%20%2F%20ts&color=3178C6&style=flat-square" height="16">
-<img src="https://img.shields.io/static/v1?label=&message=go&color=00ADD8&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=cplusplus&color=00599C&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=javascript/typescript&color=3178C6&style=flat-square" height="16">
+<img src="https://img.shields.io/static/v1?label=&message=golang&color=00ADD8&style=flat-square" height="16">
 </sub> +
 <br>
 
